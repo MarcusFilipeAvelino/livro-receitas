@@ -3,4 +3,4 @@
 Ola! bem vindo ao meu livro de receitas :fish:
 
 - strogonoff de frango
-- Pavê
+- Pavê.
